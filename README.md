@@ -2,6 +2,11 @@
   <img src="./assets/hi.gif" height="32" />
 </h1>
 
+<div align="center">
+  <a href="https://discord.com/users/881101179566833675"><img src="./assets/social/discord.svg" /></a>
+  <a href="https://t.me/@bozheno"><img src="./assets/social/telegram.svg" /></a>
+</div>
+
 ### 🛠 Used technologies
 
 <!--
@@ -12,7 +17,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzhn&langs_count=5&theme=tokyonight&size_weight=1&count_weight=1&card_width=343" />
 </a>
 -->
-
 
 <!-- [![Front-end](https://skillicons.dev/icons?i=react,angular,vue,js,ts,html,css,sass,vue,nodejs,figma,vscode,nextjs,astro,materialui)](https://skillicons.dev) -->
 
