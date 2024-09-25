@@ -9,77 +9,98 @@
 
 ### 🛠 Used technologies
 
-<!--
-<a href="https://github.com/bzhn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bzhn&count_private=true&theme=tokyonight&showicons=true&show_icons=true&hide_border=false&count_private=true" />
-</a>
-<a href="https://github.com/Lokankara/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzhn&langs_count=5&theme=tokyonight&size_weight=1&count_weight=1&card_width=343" />
-</a>
--->
+<details align="center">
+   <summary>
+	Front-end
+	</summary>
+	<br />
+	<p>
+    <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="40" height="40" /></a>&nbsp;
+    <a href="https://angular.dev/" title="Angular"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" width="40" height="40" /></a>&nbsp;
+    <a href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" width="40" height="40" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.w3schools.com/html/" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.w3schools.com/Css/" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="40" height="40" /></a>&nbsp;
+    <a href="https://sass-lang.com/guide/" title="Sass"><img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="40" height="40" /></a>&nbsp;
+    <a href="https://code.visualstudio.com/Download" title="VSCode"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" /></a>&nbsp;
+    <a href="https://nextjs.org/docs" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="40" height="40" /></a>&nbsp;
+    <a href="https://astro.build/" title="Astro"><img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" width="40" height="40" /></a>&nbsp;
+    <a href="https://mui.com/" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI" width="40" height="40" /></a>&nbsp;
+	</p>
+</details>
 
-<!-- [![Front-end](https://skillicons.dev/icons?i=react,angular,vue,js,ts,html,css,sass,vue,nodejs,figma,vscode,nextjs,astro,materialui)](https://skillicons.dev) -->
+<details align="center">
+   <summary>
+	Back-end
+	</summary>
+	<br />
+	<p>
+    <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" width="40" height="40" /></a>&nbsp;
+    <a href="https://nodejs.org/en" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="40" height="40" /></a>&nbsp;
+    <a href="https://ru.wikipedia.org/wiki/Go" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="40" height="40" /></a>&nbsp;
+    <a href="https://hub.docker.com/_/postgres/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="40" height="40" /></a>&nbsp;
+    <a href="https://hub.docker.com/_/mysql/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.google.com/search?hl=en&q=sqlite" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" width="40" height="40" /></a>&nbsp;
+    <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.google.com/search?hl=en&q=mongodb" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="40" height="40" /></a>&nbsp;
+    <a href="https://redis.io/docs/latest/develop/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.prisma.io/docs/getting-started" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.postman.com/downloads/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="40" height="40" /></a>&nbsp;
+	</p>
+</details>
 
-<div>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"/></a>
-  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular"/></a>
-  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/></a>
-  <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"><img src="https://skillicons.dev/icons?i=ts"/></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html"/></a>
-  <a href="https://www.w3schools.com/Css/"><img src="https://skillicons.dev/icons?i=css"/></a>
-  <a href="https://sass-lang.com/guide/"><img src="https://skillicons.dev/icons?i=sass"/></a>
-  <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"/></a>
-  <a href="https://code.visualstudio.com/Download"><img src="https://skillicons.dev/icons?i=vscode"/></a>
-  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs"/></a>
-  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro"/></a>
-  <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui"/></a>
-</div>
+<details align="center">
+   <summary>
+	DevOps
+	</summary>
+	<br />
+	<p>
+    <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.w3schools.com/git/default.asp" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40" /></a>&nbsp;
+    <a href="https://docs.github.com/en/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="40" height="40" /></a>&nbsp;
+    <a href="https://github.com/" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" width="40" height="40" /></a>&nbsp;
+    <a href="https://github.com/PacktPublishing/NGINX-Cookbook" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" width="40" height="40" /></a>&nbsp;
+    <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="40" height="40" /></a>&nbsp;
+    <a href="https://ubuntu.com/download/desktop" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" width="40" height="40" /></a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.gnu.org/software/bash/manual/bash.html" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.heroku.com/" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku&theme=dark" alt="Heroku" width="40" height="40" /></a>&nbsp;
+    <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="40" height="40" /></a>&nbsp;
+	</p>
+</details>
 
-<!-- [![Back-end](https://skillicons.dev/icons?i=nestjs,nodejs,go,postgres,mysql,sqlite,graphql,mongodb,redis,prisma,postman)](https://skillicons.dev) -->
+<details align="center">
+   <summary>
+	Other
+	</summary>
+	<br />
+	<p>
+    <a href="https://obsidian.md/" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.youtube.com/watch?v=5Uj6uR3fp-U" title="IPFS"><img src="https://skillicons.dev/icons?i=ipfs&theme=dark" alt="IPFS" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.arduino.cc/" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.overleaf.com/learn" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.markdownguide.org/cheat-sheet/" title="Markdown"><img src="https://skillicons.dev/icons?i=md&theme=dark" alt="Markdown" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" width="40" height="40" /></a>&nbsp;
+    <a href="https://regex101.com/" title="Regex"><img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="Regex" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" width="40" height="40" /></a>&nbsp;
+    <a href="https://vim.rtorr.com/" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim" width="40" height="40" /></a>&nbsp;
+	</p>
+</details>
 
-<div>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs"/></a>
-  <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-  <a href="https://ru.wikipedia.org/wiki/Go"><img src="https://skillicons.dev/icons?i=go"/></a>
-  <a href="https://hub.docker.com/_/postgres/"><img src="https://skillicons.dev/icons?i=postgres"/></a>
-  <a href="https://hub.docker.com/_/mysql/"><img src="https://skillicons.dev/icons?i=mysql"/></a>
-  <a href="https://www.google.com/search?hl=en&q=sqlite"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
-  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql"/></a>
-  <a href="https://www.google.com/search?hl=en&q=mongodb"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
-  <a href="https://redis.io/docs/latest/develop/"><img src="https://skillicons.dev/icons?i=redis"/></a>
-  <a href="https://www.prisma.io/docs/getting-started"><img src="https://skillicons.dev/icons?i=prisma"/></a>
-  <a href="https://www.postman.com/downloads/"><img src="https://skillicons.dev/icons?i=postman"/></a>
-</div>
 
-<!-- [![DevOps](https://skillicons.dev/icons?i=github,git,githubactions,gitlab,nginx,aws,docker,ubuntu,linux,bash,heroku,vercel)](https://skillicons.dev) -->
+### My GitHub profile stats
 
-<div>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://www.w3schools.com/git/default.asp"><img src="https://skillicons.dev/icons?i=git"/></a>
-  <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=gitlab"/></a>
-  <a href="https://github.com/PacktPublishing/NGINX-Cookbook"><img src="https://skillicons.dev/icons?i=nginx"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
-  <a href="https://ubuntu.com/download/desktop"><img src="https://skillicons.dev/icons?i=ubuntu"/></a>
-  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux"/></a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash"/></a>
-  <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku"/></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel"/></a>
-</div>
-
-<!-- [![Other](https://skillicons.dev/icons?i=obsidian,ipfs,arduino,latex,md,cloudflare,regex,matlab,neovim)](https://skillicons.dev) -->
-
-<div>
-  <a href="https://obsidian.md/"><img src="https://skillicons.dev/icons?i=obsidian"/></a>
-  <a href="https://www.youtube.com/watch?v=5Uj6uR3fp-U"><img src="https://skillicons.dev/icons?i=ipfs"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino"/></a>
-  <a href="https://www.overleaf.com/learn"><img src="https://skillicons.dev/icons?i=latex"/></a>
-  <a href="https://www.markdownguide.org/cheat-sheet/"><img src="https://skillicons.dev/icons?i=md"/></a>
-  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare"/></a>
-  <a href="https://regex101.com/"><img src="https://skillicons.dev/icons?i=regex"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab"/></a>
-  <a href="https://vim.rtorr.com/"><img src="https://skillicons.dev/icons?i=neovim"/></a>
-</div>
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bzhn&theme=tokyonight" alt="profile"/>
+	<p align="center">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bzhn&theme=tokyonight" alt="most-commit-language"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bzhn&theme=tokyonight" alt="repos-per-language"/>
+	</p>
+	<p align="center">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bzhn&theme=tokyonight" alt="stats"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bzhn&theme=tokyonight&utcOffset=2" alt="productive-time"/>
+	</p>
+</p>
