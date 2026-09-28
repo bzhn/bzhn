@@ -2,11 +2,6 @@
   <img src="./assets/hi.gif" height="32" />
 </h1>
 
-<div align="center">
-  <a href="https://discord.com/users/881101179566833675"><img src="./assets/social/discord.svg" /></a>
-  <a href="https://t.me/bozheno"><img src="./assets/social/telegram.svg" /></a>
-</div>
-
 ### 🛠 Used technologies
 
 <details align="center">
@@ -89,18 +84,3 @@
     <a href="https://vim.rtorr.com/" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim" width="40" height="40" /></a>&nbsp;
 	</p>
 </details>
-
-
-### My GitHub profile stats
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bzhn&theme=tokyonight" alt="profile"/>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bzhn&theme=tokyonight" alt="most-commit-language"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bzhn&theme=tokyonight" alt="repos-per-language"/>
-	</p>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bzhn&theme=tokyonight" alt="stats"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bzhn&theme=tokyonight&utcOffset=2" alt="productive-time"/>
-	</p>
-</p>
